@@ -1,4 +1,4 @@
-/*all common css*/
+/*all common css start*/
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ ol {
 .clr {
   clear: both;
 }
-/*all common css*/
+/*all common css end*/
 
 /*countdown part start*/
 
