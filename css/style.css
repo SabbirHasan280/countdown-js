@@ -1,46 +1,50 @@
 /*all common css*/
-*{
-    margin: 0;
-    padding: 0;
-    outline: 0;
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-ul,ol{
-    list-style-type: none;
+ul,
+ol {
+  list-style-type: none;
+}
+.clr {
+  clear: both;
 }
 /*all common css*/
 
 /*countdown part start*/
 
-#countdown{
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background: #daf50c;
-    margin-top: 50px;
+#countdown {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #daf50c;
+  margin-top: 50px;
 }
-.birthday-text h1{
-    font-family: 'Lobster', cursive;
-    font-size: 48px;
-    font-weight: 700;
-    color: #000000;
-    word-spacing: 20px;
-    padding-bottom: 30px;
-    text-shadow: 2px 2px red;
+.birthday-text h1 {
+  font-family: "Lobster", cursive;
+  font-size: 48px;
+  font-weight: 700;
+  color: #000000;
+  word-spacing: 20px;
+  padding-bottom: 30px;
+  text-shadow: 2px 2px red;
 }
-.countdown-iteam h2{
-    font-family: 'Lobster', cursive;
-    font-size: 48px;
-    font-weight: 500;
-    color: #000000;
-    text-shadow: 2px 2px red;
+.countdown-iteam h2 {
+  font-family: "Lobster", cursive;
+  font-size: 48px;
+  font-weight: 500;
+  color: #000000;
+  text-shadow: 2px 2px red;
 }
-.countdown-iteam p{
-    font-family: 'Lobster', cursive;
-    font-size: 18px;
-    font-weight: 400;
-    color: #000000;
-    text-shadow: 2px 2px red;
+.countdown-iteam p {
+  font-family: "Lobster", cursive;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+  text-shadow: 2px 2px red;
 }
 /*countdown part end*/
